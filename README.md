@@ -13,3 +13,4 @@
 <video id="video" controls="" preload="none" poster="封面">
       <source id="ogv" src="ogv格式视频" type="video/ogv">
 </videos>
+<video controls height='100%' width='100%' src="https://encooacademy.oss-cn-shanghai.aliyuncs.com/activity/OpenBrowser.mp4"></video>
