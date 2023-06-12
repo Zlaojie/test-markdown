@@ -33,6 +33,10 @@
 
 [![Watch the video]()](https://github.com/Zlaojie/test-markdown/assets/47165936/dd98dd8b-f8ec-41f9-b411-a479fac1c83a)
 
+[![Watch the video]()](https://encooacademy.oss-cn-shanghai.aliyuncs.com/activity/OpenBrowser.mp4)
+
+https://github.com/Zlaojie/test-markdown/assets/47165936/dd98dd8b-f8ec-41f9-b411-a479fac1c83a
+
 <!-- [<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/<VIDEO_ID>) -->
 
