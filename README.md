@@ -34,8 +34,13 @@
 [<img src="" width="600" height="300"
 />](https://user-images.githubusercontent.com/47165936/244244316-dd98dd8b-f8ec-41f9-b411-a479fac1c83a.mp4)
 
-6. 拖拽上传本地视频，被github转化成的能被其识别的github视频链接
+6. 拖拽上传本地视频，被github转化成的能被其识别的github视频链接或者github的视频链接（要有空格）
+
 https://github.com/Zlaojie/test-markdown/assets/47165936/dd98dd8b-f8ec-41f9-b411-a479fac1c83a
 
 
+https://user-images.githubusercontent.com/47165936/244244316-dd98dd8b-f8ec-41f9-b411-a479fac1c83a.mp4
+
+
+https://encooacademy.oss-cn-shanghai.aliyuncs.com/activity/OpenBrowser.mp4
 
