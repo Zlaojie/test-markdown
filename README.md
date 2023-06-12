@@ -44,3 +44,10 @@ https://user-images.githubusercontent.com/47165936/244244316-dd98dd8b-f8ec-41f9-
 
 https://encooacademy.oss-cn-shanghai.aliyuncs.com/activity/OpenBrowser.mp4
 
+
+7. 引入本地视频
+
+[测试](./2381414012.mp4)
+[![]()](./2381414012.mp4)
+[<img src="" />](./2381414012.mp4)
+
