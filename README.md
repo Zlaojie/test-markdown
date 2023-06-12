@@ -18,26 +18,24 @@
       <source id="ogv" src="ogv格式视频" type="video/ogv">
 </videos> -->
 
+1. video标签被过滤
+<video controls height='100%' width='100%' src="https://github.com/Zlaojie/test-markdown/assets/47165936/30d2cc86-0236-46f9-a520-26114dddadf1"></video>
 
-<!-- <video controls height='100%' width='100%' src="https://github.com/Zlaojie/test-markdown/assets/47165936/30d2cc86-0236-46f9-a520-26114dddadf1"></video> -->
-
-
-<!-- https://github.com/Zlaojie/test-markdown/assets/47165936/dd98dd8b-f8ec-41f9-b411-a479fac1c83a -->
-
-
-
-
-
-
-<!-- https://github.com/Zlaojie/test-markdown/assets/47165936/235a105f-03fd-4e70-91d0-ae10eeef76c8 -->
-
+2. `[![](图片链接)](github转化的能被其识别的github视频链接)`
 [![Watch the video]()](https://github.com/Zlaojie/test-markdown/assets/47165936/dd98dd8b-f8ec-41f9-b411-a479fac1c83a)
 
+3. `[![](图片链接)](外部视频链接)`
 [![Watch the video]()](https://encooacademy.oss-cn-shanghai.aliyuncs.com/activity/OpenBrowser.mp4)
 
+4. `[![](图片链接)](github的视频链接)`
+[![Watch the video]()](https://user-images.githubusercontent.com/47165936/244244316-dd98dd8b-f8ec-41f9-b411-a479fac1c83a.mp4)
+
+5. `[<img/>](github的视频链接)`
+[<img src="" width="600" height="300"
+/>](https://user-images.githubusercontent.com/47165936/244244316-dd98dd8b-f8ec-41f9-b411-a479fac1c83a.mp4)
+
+6. 拖拽上传本地视频，被github转化成的能被其识别的github视频链接
 https://github.com/Zlaojie/test-markdown/assets/47165936/dd98dd8b-f8ec-41f9-b411-a479fac1c83a
 
-<!-- [<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>) -->
 
 
