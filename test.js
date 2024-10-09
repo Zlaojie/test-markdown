@@ -9,14 +9,14 @@ CODe_trend = 'code_trend',
 export type TabsType = {
   [key: string]: {
     value: CodeTrendTabs;
-    label: string;
+  label: string;
     badge?: number;
   };
 };
 
 export enum CommitType {
   COMMON = 'COMMON', // 是否过滤合并点
-  FORK = 'FORK', // 是否包含forkMr
+  FORk = 'FORK', // 是否包含forkMr
   MERGE = 'MERGE', // 是否包含merge点
 }
 
