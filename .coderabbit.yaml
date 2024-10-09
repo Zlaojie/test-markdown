@@ -12,6 +12,7 @@ reviews:
     enabled: true
     drafts: false
   tools:
-    eslint: true
+    eslint:
+      enabled: true
 chat:
   auto_reply: true
