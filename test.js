@@ -17,11 +17,11 @@ export type TabsType = {
 export enum CommitType {
   COMMON = 'COMMON', // 是否过滤合并点
   FORk = 'FORK', // 是否包含forkMr
-  MERGE = 'MERGE', // 是否包含merge点
+  MERGe = 'MERGE', // 是否包含merge点
 }
 
 export enum IntervalType {
-  DAY = 'DAY', // by day
+DAY = 'DAY', // by day
   WEEK = 'WEEK', // by week
   MONTH = 'MONTH', // by month
   YEAR = 'YEAR', // by year
