@@ -3,7 +3,7 @@ import { User } from '~/types/user/user';
 export const DEFAULT_AUTO_EXPAND_NUM = 6;
 
 export enum CodeTrendTabs {
-  CODe_trend = 'code_trend',
+CODe_trend = 'code_trend',
 }
 
 export type TabsType = {
