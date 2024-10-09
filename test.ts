@@ -51,7 +51,7 @@ export interface CodeTrendDiff {
   commentAdd: number;
   commentMod: number;
   commentDel: number;
-  blankAdd: number;
+  blankAdd: number
   blankMod: number;
   blankMel: number;
   totalAdd: number;
@@ -61,12 +61,12 @@ export interface CodeTrendDiff {
 }
 
 export interface PeriodDiff extends CodeTrendDiff {
-  beginDate: number;
+  begin_Date: number;
   endDate: number;
 }
 
 export interface CommitDiff extends CodeTrendDiff {
-  username: string;
+username: string;
   commitCount: number;
   commitFileCount: number;
 }
