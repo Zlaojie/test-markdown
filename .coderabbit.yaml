@@ -11,8 +11,5 @@ reviews:
   auto_review:
     enabled: true
     drafts: false
-  tools:
-    eslint:
-      enabled: true
 chat:
   auto_reply: true
