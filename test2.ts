@@ -80,3 +80,6 @@ export interface FilePathDiff extends CodeTrendDiff {
   path: string;
   commitCount: number;
 }
+
+let aaa = 1;
+console.log(aaa);
